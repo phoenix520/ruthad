@@ -1,0 +1,49 @@
+html, body
+{
+height:100%;
+width:100%;
+}
+
+#intro
+{
+ background:url(bck.jpg) no-repeat fixed;
+ height:100%;
+ width:100%;
+ -webkit-background-size:cover;
+ -moz-background-size:cover;
+ -o-background-size:cover;
+ background-size:cover;
+}
+#about
+{
+background:url(about.jpg) no-repeat fixed;
+ height:45%;
+ width:100%;
+ -webkit-background-size:cover;
+ -moz-background-size:cover;
+ -o-background-size:cover;
+ background-size:cover;
+}
+#acv
+{
+background:url(2nd.jpg) no-repeat fixed;
+ height:45%;
+ width:100%;
+ -webkit-background-size:cover;
+ -moz-background-size:cover;
+ -o-background-size:cover;
+ background-size:cover;
+}
+.pad
+{
+padding:50px;
+}
+.jumbotron
+{
+background:transparent;
+}
+.text
+{
+text-align:center;
+vertical-align:middle;
+}
